@@ -1,4 +1,4 @@
 # bookbot
  boot.dev
 
-Bookbot is my first git projetct! (Not really)
+git Bookbot is my first git projetct! (Not really)
